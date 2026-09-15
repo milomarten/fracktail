@@ -6,3 +6,5 @@ discord:
     enabled: false
   moon:
     enabled: false
+#  twitch-go-live:
+#    enabled: false

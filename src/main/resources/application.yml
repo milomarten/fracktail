@@ -15,6 +15,13 @@ discord:
   moon:
     enabled: true
     announcementChannelId: 746898862098087977
+  twitch-go-live:
+    enabled: true
+    announcementChannelId: 746898862098087977
+
+twitch:
+  ownerId: milo_marten
+  clientId: nbx1zu3hjyko0wsfmd0p8bsf3335op
 
 birthdays:
   hard-coded:

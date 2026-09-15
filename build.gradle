@@ -37,6 +37,8 @@ dependencies {
 	implementation 'com.github.jknack:handlebars-helpers:4.4.0'
 	implementation 'com.github.jknack:handlebars-jackson:4.4.0'
 
+	implementation 'com.github.twitch4j:twitch4j:1.27.0'
+
 	compileOnly 'org.projectlombok:lombok'
 
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
